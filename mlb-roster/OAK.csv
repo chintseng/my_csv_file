@@ -1,0 +1,29 @@
+,Player Name,Age,Pos,Ht,Wt,Ba,Th,Born Date,Place Of Birth,MLB Years,Team
+0,Domingo Acevedo,27.103,P,6-7,242,R,R,1994-06-03,"Santiago,DR",2021-2021,OAK
+1,Chris Bassitt,32.212,P,6-5,217,R,R,1989-02-22,"Curtice,OH",2014-2021,OAK
+2,Paul Blackburn,27.257,P,6-1,196,R,R,1993-12-04,"Oakley,CA",2017-2021,OAK
+3,Deolis Guerra,31.356,P,6-5,200,R,R,1989-04-17,"San Felix,VZ",2015-2021,OAK
+4,Cole Irvin,26.364,P,6-4,217,L,L,1994-01-31,"Yorba Linda,CA",2019-2021,OAK
+5,Daulton Jefferies,26.064,P,6-0,182,L,R,1995-08-02,"Atwater,CA",2020-2021,OAK
+6,Jorge Juan,22.258,P,6-8,200,R,R,1999-03-06,"Payita,DR",,OAK
+7,James Kaprielian,27.159,P,6-3,225,R,R,1994-03-02,"Laguna Hills,CA",2020-2021,OAK
+8,Sean Manaea,28.349,P,6-5,245,R,L,1992-02-01,"Wantah,IN",2016-2021,OAK
+9,Sam Moll,29.266,P,5-10,184,L,L,1992-01-03,"Lakeland,TN",2017-2021,OAK
+10,Frankie Montas,28.169,P,6-2,255,R,R,1993-03-21,"San Cristobal,DR",2015-2021,OAK
+11,Trevor Rosenthal,31.158,P,6-2,230,R,R,1990-05-29,"Lee's Summit,MO",2012-2020,OAK
+12,Lou Trivino,29.106,P,6-5,235,R,R,1991-10-01,"Green Lane,PA",2018-2021,OAK
+13,Nick Allen,23.042,SS-2B,5-9,155,B,R,1998-10-08,"San Diego,CA",,OAK
+14,Elvis Andrus,33.039,SS-DH,6-0,210,R,R,1988-08-26,"Caracas,VZ",2009-2021,OAK
+15,Jonah Bride,25.327,3B-1B,5-10,190,R,R,1995-12-27,"Owasso,OK",,OAK
+16,Seth Brown,29.058,RF-1B,6-1,223,L,L,1992-07-13,"Medford,OR",2019-2021,OAK
+17,Matt Chapman,27.262,3B-ss,6-0,215,R,R,1993-04-28,"Victorville,CA",2017-2021,OAK
+18,Jordan Diaz,21.097,3B-1B,5-10,175,R,R,2000-08-13,"Monteria,CB",,OAK
+19,Vimael Machin,28.009,3B-2B,5-11,185,L,R,1993-09-25,"San Lorenzo,PR",2020-2021,OAK
+20,Mitch Moreland,36.028,1B-DH,6-3,245,L,L,1985-09-06,"Amory,MS",2010-2021,OAK
+21,Matt Olson,26.248,1B-DH,6-5,225,L,R,1994-03-29,"Lilburn,GA",2016-2021,OAK
+22,Chad Pinder,29.143,RF-LF,6-2,210,R,R,1992-03-29,"Richmond,VA",2016-2021,OAK
+23,Luis Barrera,25.316,CF-RF,6-0,195,L,L,1995-11-15,"Tamboril,DR",2021-2021,OAK
+24,Skye Bolt,27.228,CF-RF,6-2,180,B,R,1994-01-15,"Woodstock,GA",2019-2021,OAK
+25,Tony Kemp,29.031,2B-LF,5-6,160,L,R,1991-10-31,"Nashville,TN",2016-2021,OAK
+26,Stephen Piscotty,30.264,RF-DH,6-4,211,R,R,1991-01-14,"Pleasanton,CA",2015-2021,OAK
+27,Cody Thomas,27.042,RF-CF,6-5,215,L,R,1994-10-08,"Colleyville,TX",,OAK
